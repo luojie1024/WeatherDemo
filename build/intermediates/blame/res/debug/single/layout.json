@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\layout\\data_row.xml",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\layout\\data_row.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_history.xml",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\layout\\tab_history.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_weather.xml",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\layout\\tab_weather.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_setup.xml",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\layout\\tab_setup.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_history.png",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\drawable\\tab_history.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_weather.png",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\drawable\\tab_weather.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sunny.png",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\drawable\\sunny.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\WeatherDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setup.png",
+        "source": "D:\\space\\NO3\\WeatherDemo\\res\\drawable\\tab_setup.png"
+    }
+]

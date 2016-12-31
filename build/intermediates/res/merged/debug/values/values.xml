@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black">#000000</drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <string name="app_name">WeatherDemo</string>
+    <string name="hello">Hello World, WeatherDemo!</string>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+		<TextView  android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="城市名称（拼音）：">
+		</TextView>    
+	    <EditText android:id="@+id/tab_setup_city_name" 
+	     	android:layout_width="fill_parent" 
+	     	android:layout_height="wrap_content"
+	     	android:text="Haerbin" >
+	    </EditText>
+	</LinearLayout>
+	
+	 <LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="更新频率：">
+		</TextView>    
+	    <EditText android:id="@+id/tab_setup_refresh_speed" 
+	     	android:layout_width="120dip" 
+	     	android:layout_height="wrap_content"
+	     	android:numeric="integer"
+	     	android:text="600" >
+	    </EditText>
+	    <TextView  android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="秒/次">
+		</TextView> 
+	</LinearLayout>
+	
+	<LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+		<TextView  android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="提供短信服务：">
+		</TextView>    
+	   
+		<CheckBox android:id="@+id/tab_setup_sms_service"
+			android:text="是"  
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:checked="true">
+		</CheckBox>
+	</LinearLayout>
+	
+	<LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+		<TextView  android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="记录短信服务数据信息：">
+		</TextView>    
+	   
+		<CheckBox android:id="@+id/tab_setup_save_sms_info"
+			android:text="是"  
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:checked="true">
+		</CheckBox>
+	</LinearLayout>	
+	
+	 <LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+		<TextView  
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:text="短信服务关键字：">
+		</TextView>    
+	    <EditText android:id="@+id/tab_setup_key_work" 
+	     	android:layout_width="120dip" 
+	     	android:layout_height="wrap_content"
+	     	android:text="WR" >
+	    </EditText>
+	</LinearLayout>
+	
+	 <LinearLayout android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent" 
+    	android:layout_marginTop="5dip">
+    
+    	<Button android:id="@+id/tab_setup_apply"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 	
+			android:text="应用系统设置" 
+			android:layout_weight="1" android:layout_gravity="bottom">
+		</Button>
+		<Button android:id="@+id/tab_setup_cancel"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 	
+			android:text="取消系统设置" 
+			android:layout_weight="1" android:layout_gravity="bottom">
+		</Button>
+    </LinearLayout>
+    
+       
+		
+    
+</LinearLayout>
+

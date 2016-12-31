@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/white" 
+    android:layout_marginTop="2dip">
+    
+	<LinearLayout android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">
+
+    	<TextView android:id="@+id/data_row_01"
+        	android:layout_gravity="center_vertical"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:textSize="12dip"
+        	android:textColor="@drawable/black"/>
+        	
+        <TextView android:id="@+id/data_row_02"
+        	android:layout_gravity="center_vertical"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:textSize="12dip"
+        	android:textColor="@drawable/black"
+        	android:layout_marginTop="3dip"/>      
+	</LinearLayout>   
+ 
+</LinearLayout>

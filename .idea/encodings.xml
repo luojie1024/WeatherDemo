@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/DB/DBAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/SMS/SmsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/Service/SmsReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/Service/WeatherService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/SetupActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/Weather/Weather.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/hrbeu/WeatherDemo/WeatherActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

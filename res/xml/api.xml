@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_api_reply version="1">
+	<weather module_id="0" tab_id="0" mobile_row="0" mobile_zipped="1" row="0" section="0">
+		<forecast_information>
+			<city data="New York, NY"/>
+			<postal_code data="New York"/>
+			<latitude_e6 data=""/>
+			<longitude_e6 data=""/>
+			<forecast_date data="2009-09-22"/>
+			<current_date_time data="2009-09-22 16:51:00 +0000"/>
+			<unit_system data="US"/>
+		</forecast_information>
+		
+		<current_conditions>
+			<condition data="Mostly Cloudy"/>
+			<temp_f data="72"/>
+			<temp_c data="22"/>
+			<humidity data="Humidity: 71%"/>
+			<icon data="/ig/images/weather/mostly_cloudy.gif"/>
+			<wind_condition data="Wind: N at 6 mph"/>
+		</current_conditions>
+		
+		<forecast_conditions>
+			<day_of_week data="Tue"/>
+			<low data="65"/>
+			<high data="76"/>
+			<icon data="/ig/images/weather/mostly_sunny.gif"/>
+			<condition data="Partly Sunny"/>
+		</forecast_conditions>
+		
+		<forecast_conditions>
+			<day_of_week data="Wed"/>
+			<low data="68"/>
+			<high data="79"/>
+			<icon data="/ig/images/weather/chance_of_storm.gif"/>
+			<condition data="Chance of Storm"/>
+		</forecast_conditions>
+		
+		<forecast_conditions>
+			<day_of_week data="Thu"/>
+			<low data="61"/>
+			<high data="83"/>
+			<icon data="/ig/images/weather/chance_of_storm.gif"/>
+			<condition data="Chance of Storm"/>
+		</forecast_conditions>
+		
+		<forecast_conditions>
+			<day_of_week data="Fri"/>
+			<low data="54"/>
+			<high data="72"/>
+			<icon data="/ig/images/weather/sunny.gif"/>
+			<condition data="Clear"/>
+		</forecast_conditions>
+	</weather>
+</xml_api_reply>
